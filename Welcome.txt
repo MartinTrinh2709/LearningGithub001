@@ -1,0 +1,2 @@
+Hello world, my name is Martin
+This is my text file for learning github
